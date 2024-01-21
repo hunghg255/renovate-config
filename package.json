@@ -1,0 +1,16 @@
+{
+  "name": "renovate-config-hunghg255",
+  "version": "0.0.0",
+  "description": "Renovate Bot config by hunghg255",
+  "license": "MIT",
+  "repository": "hunghg255/renovate-config",
+  "scripts": {
+    "test": "renovate-config-validator ./default.json"
+  },
+  "files": [
+    "default.json"
+  ],
+  "devDependencies": {
+    "renovate": "^36.109.4"
+  }
+}
